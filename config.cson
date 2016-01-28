@@ -1,0 +1,17 @@
+"*":
+  "autoclose-html": {}
+  core: {}
+  editor:
+    autoIndentOnPaste: false
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "28006c70-4321-fc03-2dc1-b443d36044d7"
+  minimap:
+    plugins:
+      "git-diff": true
+      pigments: true
+  welcome:
+    showOnStartup: false
